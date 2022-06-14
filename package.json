@@ -2,7 +2,6 @@
   "name": "test-practices",
   "version": "1.0.0",
   "description": "<<<<<<< HEAD",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
